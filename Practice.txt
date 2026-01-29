@@ -1,4 +1,78 @@
---- this is my assignment :)
+#1 
+
+Take the text "hello world".
+
+Change each letter to its uppercase form.
+
+Print the result.
 
 
-print("hello world".upper())
+
+#2
+
+Ask the user to enter the first number.
+
+Store the first number(20).
+
+Ask the user to enter the second number.
+
+Store the second number(13).
+
+Add the two numbers together.
+
+Print the result.
+
+
+
+
+#3
+
+Set the total sum to 0.
+
+Repeat the following until the user says they are finished:
+  Ask the user to enter a number.
+  Add that number to the total sum.
+
+After the user is done, print the total sum.
+
+
+
+
+#4
+
+Repeat the following:
+  Ask the user to enter the maximum whole number.
+  Generate a random number between 0 and the maximum number.
+  Print the random number.
+  Ask the user if they want to play again.
+
+If the user wants to play again, repeat from step 2.
+
+If the user chooses to quit, end the program.
+
+
+
+
+#5
+
+Set a counter for RIGHT to 0.
+
+Set a counter for LEFT to 0.
+
+Repeat the following 10 times:
+   Generate a random number.
+   If the number is even,
+
+Print “RIGHT”
+
+Add 1 to the RIGHT counter.
+   If the number is odd,
+
+Print “LEFT”
+
+Add 1 to the LEFT counter.
+
+After all 10 numbers, print how many times it was “RIGHT”.
+
+Print how many times it was “LEFT”.
+
