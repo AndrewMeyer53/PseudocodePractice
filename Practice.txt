@@ -1,1 +1,4 @@
 --- this is my assignment :)
+
+
+print("hello world".upper())
