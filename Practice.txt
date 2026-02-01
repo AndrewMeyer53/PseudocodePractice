@@ -61,12 +61,12 @@ Set a counter for LEFT to 0.
 
 Repeat the following 10 times:
    Generate a random number.
-   If the number is even,
+   If the number is even
 
 Print “RIGHT”
 
 Add 1 to the RIGHT counter.
-   If the number is odd,
+   If the number is odd
 
 Print “LEFT”
 
